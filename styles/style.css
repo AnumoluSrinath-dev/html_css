@@ -1,11 +1,12 @@
-img{
-  width: 500px;
+.logo{
+  width: 300px;
+  display: block;
+  margin-bottom: 20px;
+}
+.text{
+  width: 400px;
   display: block;
 }
-input{
-  width: 700px;
-  display: block;
-}
-div{
-  margin-top: 200px;
+.main{
+  margin-top: 100px;
 }
